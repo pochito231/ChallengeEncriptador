@@ -1,0 +1,119 @@
+* header{
+   text-align: center;
+   
+   position:relative;
+   right:170px;
+   bottom: 30px;
+}
+h1{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+}
+#foto{
+    position: relative;
+    right: 26%;
+    top:32px;
+}
+
+ body{
+    background-color: #E9ECF8;
+ }
+
+.izquierda{
+    float:left;
+    width: 60%;
+    height: 500px;
+    position: relative;
+
+}
+
+ #texto{
+    background-color: #E9ECF8;
+    padding: 15px;
+    margin-top: 10%;
+    margin-left: 20%;
+    resize: none;
+    border-style: hidden;
+}
+
+.derecha{
+    float: right;
+    width: 300px;
+    height: 90%;
+    margin-right: 15%;
+    max-width: 120%;
+}
+
+#resultado{
+    position: absolute;
+    width: 250px;
+    height: 400px;
+    margin-block: 20px;
+    margin-inline: 25px;
+    resize: none;
+    z-index: 1;
+}
+
+#fototex{
+    position: absolute;
+    top: 72px;
+    right: 246px;
+    width: 250px;
+    height: 400px;
+    z-index: 2;
+}
+.inferior{
+    margin-left: 40%;
+    margin-top: 35%;
+   position:absolute;
+   bottom:50px;
+}
+#adv{
+    position: relative;
+    right: 180px;
+}
+#code{
+    border-radius: 29px;
+    cursor: pointer;
+    width: 25%;
+    background-color: #609ED4;
+    margin-right: 10px;
+    position: relative;
+    right: 180px;
+    width: 120px;
+}
+
+#decode{
+    border-radius: 29px;
+    cursor: pointer;
+    background-color: #CED4DA;
+    margin-right: 10px;
+    position: relative;
+    right: 150px;
+    width: 120px;
+}
+
+
+#limpiar{
+    border-radius: 29px;
+    cursor: pointer;
+    background-color: #CED4DA;
+    position: relative;
+    right: 120px;
+    width: 120px;
+}
+
+    footer{
+        background-color: black;
+
+        margin-top: 35%;
+        text-align: center;
+        padding:35px;
+    }
+    #copy{
+        color:#FFFFFF;
+        font-size: 30px;
+        margin:18px;
+    }
+    
