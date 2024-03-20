@@ -1,6 +1,3 @@
-
-
-    
     function verificarTexto(){
         var texto = document.getElementById('texto').value;
         texto = texto.toLowerCase();
